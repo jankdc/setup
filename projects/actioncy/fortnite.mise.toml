@@ -1,0 +1,10 @@
+[tools]
+node = "20"
+terraform = "latest"
+awscli = "2"
+vault = "latest"
+kubectx = "latest"
+kubectl = "latest"
+helm = "latest"
+jq = "latest"
+kubelogin = "latest"

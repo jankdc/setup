@@ -1,0 +1,10 @@
+[tools]
+node = 'latest'
+python = 'latest'
+helm = 'latest'
+helm-diff = 'latest'
+aws-cli = 'latest'
+envsubst = 'latest'
+terraform = 'latest'
+flyway = 'latest'
+
